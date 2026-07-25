@@ -1,0 +1,6 @@
+{
+  "name": "PPT Review Assistant",
+  "description": "PPT审阅修改助手 - 嵌入式PPT审阅与协同修改Task Pane插件原型",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
